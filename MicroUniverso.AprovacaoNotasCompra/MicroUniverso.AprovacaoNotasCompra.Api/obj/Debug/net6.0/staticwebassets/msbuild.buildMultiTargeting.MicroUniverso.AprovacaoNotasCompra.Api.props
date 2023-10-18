@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MicroUniverso.AprovacaoNotasCompra.Api.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MicroUniverso.AprovacaoNotasCompra.Api.props" />
+</Project>
