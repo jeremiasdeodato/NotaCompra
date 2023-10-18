@@ -14,9 +14,9 @@ Será necessária criar o banco de dados e as tabelas, para poder rodar a aplica
 ```bash
 - Criação do Banco de Dados:
 
-  ´CREATE DATABASE `microuniverso` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;´
+  CREATE DATABASE `microuniverso` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 
-Criação das Tabelas:
+- Criação das Tabelas:
 
 CREATE TABLE `faixa_valor_aprovacao` (
   `Id` int NOT NULL AUTO_INCREMENT,
